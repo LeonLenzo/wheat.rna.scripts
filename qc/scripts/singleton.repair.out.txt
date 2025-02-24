@@ -1,0 +1,27 @@
+inplanta-3KO-020						
+1082.909	seconds.					
+Input:	472669180	reads		59083647500	bases.	
+Result:	472669180	reads	-100.00%	59083647500	bases	-100.00%
+Pairs:	366229896	reads	-77.48%	45778737000	bases	-77.48%
+Singletons:	106439284	reads	-22.52%	13304910500	bases	-22.52%
+						
+inplanta-3KO-021						
+1167.552	seconds					
+Input:	309040885	reads		38630110625	bases.	
+Result:	309040885	reads	-100.00%	38630110625	bases	-100.00%
+Pairs:	27971096	reads	-9.05%	3496387000	bases	-9.05%
+Singletons:	281069789	reads	-90.95%	35133723625	bases	-90.95%
+						
+inplanta-3KO-022						
+698.403	seconds.					
+Input:	211901818	reads		26487727250	bases.	
+Result:	211901818	reads	-100.00%	26487727250	bases	-100.00%
+Pairs:	70247194	reads	-33.15%	8780899250	bases	-33.15%
+Singletons:	141654624	reads	-66.85%	17706828000	bases	-66.85%
+						
+inplanta-3KO-023						
+	1136.509	seconds.				
+Input:	584150361	reads	73018795125	bases.		
+Result:	584150361	reads	-100.00%	73018795125	bases	-100.00%
+Pairs:	553978218	reads	-94.83%	69247277250	bases	-94.83%
+Singletons:	30172143	reads	-5.17%	3771517875	bases	-5.17%
